@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataSync">
+  <DataContextMoniker Name="/DataSyncDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dabcc8a1-ffdd-4623-aea9-9b72da6f7fa4" absoluteBounds="0.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DataSyncDataContext/SyncLog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="accfb846-90de-40d8-a1b3-1bce3f53d3c4" absoluteBounds="0.76499999999999968, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

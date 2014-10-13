@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "legacy1C77Import.Service", "legacy1C77Import.Service.csproj", "{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AutoDeploy_Dev|x64 = AutoDeploy_Dev|x64
+		AutoDeploy_Dev|x86 = AutoDeploy_Dev|x86
+		Debug x64|x64 = Debug x64|x64
+		Debug x64|x86 = Debug x64|x86
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Deploy_Dev|x64 = Deploy_Dev|x64
+		Deploy_Dev|x86 = Deploy_Dev|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.AutoDeploy_Dev|x64.ActiveCfg = AutoDeploy_Dev|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.AutoDeploy_Dev|x64.Build.0 = AutoDeploy_Dev|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.AutoDeploy_Dev|x86.ActiveCfg = AutoDeploy_Dev|x86
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.AutoDeploy_Dev|x86.Build.0 = AutoDeploy_Dev|x86
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Debug x64|x64.ActiveCfg = Debug x64|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Debug x64|x64.Build.0 = Debug x64|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Debug x64|x86.ActiveCfg = Debug x64|x86
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Debug x64|x86.Build.0 = Debug x64|x86
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Debug|x64.ActiveCfg = Debug|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Debug|x64.Build.0 = Debug|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Debug|x86.ActiveCfg = Debug|x86
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Debug|x86.Build.0 = Debug|x86
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Deploy_Dev|x64.ActiveCfg = Deploy_Dev|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Deploy_Dev|x64.Build.0 = Deploy_Dev|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Deploy_Dev|x86.ActiveCfg = Deploy_Dev|x86
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Deploy_Dev|x86.Build.0 = Deploy_Dev|x86
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Release|x64.ActiveCfg = Release|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Release|x64.Build.0 = Release|x64
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Release|x86.ActiveCfg = Release|x86
+		{BE4AB7AB-5E10-41E5-B6D7-C2961AB76838}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
